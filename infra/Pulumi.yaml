@@ -1,0 +1,6 @@
+name: aws-lex-chatbot
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Sample chatbot using Amazon Lex
